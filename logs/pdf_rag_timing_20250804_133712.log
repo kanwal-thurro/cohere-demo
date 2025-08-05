@@ -1,0 +1,875 @@
+2025-08-04 13:37:38,960 - INFO - PDF to images conversion completed in 19.29 seconds
+2025-08-04 13:37:57,328 - INFO - PDF to images conversion completed in 19.79 seconds
+2025-08-04 13:37:58,526 - INFO - PDF to images conversion completed in 1.20 seconds
+2025-08-04 13:38:00,258 - INFO - PDF to images conversion completed in 1.73 seconds
+2025-08-04 13:38:01,498 - INFO - PDF to images conversion completed in 1.24 seconds
+2025-08-04 13:38:12,545 - INFO - PDF to images conversion completed in 11.05 seconds
+2025-08-04 13:38:13,806 - INFO - PDF to images conversion completed in 1.26 seconds
+2025-08-04 13:38:17,028 - INFO - PDF to images conversion completed in 3.22 seconds
+2025-08-04 13:38:18,163 - INFO - PDF to images conversion completed in 1.13 seconds
+2025-08-04 13:38:18,632 - INFO - PDF to images conversion completed in 0.47 seconds
+2025-08-04 13:38:18,961 - INFO - PDF to images conversion completed in 0.33 seconds
+2025-08-04 13:38:18,962 - INFO - Starting parallel embedding computation for 203 images
+2025-08-04 13:38:18,962 - INFO - Parallel embeddings computation completed in 0.00 seconds
+2025-08-04 13:38:18,962 - INFO - Starting parallel computation of 203 embeddings
+2025-08-04 13:38:19,009 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:19,014 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:19,017 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:19,032 - INFO - Image resizing completed in 0.07 seconds
+2025-08-04 13:38:19,035 - INFO - Image resizing completed in 0.07 seconds
+2025-08-04 13:38:19,039 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:38:19,050 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:38:19,052 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:38:19,082 - INFO - Base64 image conversion completed in 0.12 seconds
+2025-08-04 13:38:19,090 - INFO - Base64 image conversion completed in 0.13 seconds
+2025-08-04 13:38:28,077 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:28,103 - INFO - Single embedding computation completed in 9.14 seconds
+2025-08-04 13:38:28,155 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:28,198 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:38:29,160 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:29,179 - INFO - Single embedding computation completed in 10.22 seconds
+2025-08-04 13:38:29,213 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:29,243 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:31,230 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:31,243 - INFO - Single embedding computation completed in 12.28 seconds
+2025-08-04 13:38:31,299 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:31,332 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:38:31,630 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:31,652 - INFO - Single embedding computation completed in 12.69 seconds
+2025-08-04 13:38:31,706 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:31,736 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:38:32,605 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:32,617 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:32,617 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:32,627 - INFO - Single embedding computation completed in 13.66 seconds
+2025-08-04 13:38:32,627 - INFO - Completed 5/203 embeddings
+2025-08-04 13:38:32,635 - INFO - Single embedding computation completed in 13.67 seconds
+2025-08-04 13:38:32,640 - INFO - Single embedding computation completed in 13.68 seconds
+2025-08-04 13:38:32,672 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:32,673 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:32,673 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:32,703 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:32,707 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:38:32,711 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:38:33,834 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:33,849 - INFO - Single embedding computation completed in 14.88 seconds
+2025-08-04 13:38:33,899 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:33,929 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:38:34,561 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:34,569 - INFO - Single embedding computation completed in 15.60 seconds
+2025-08-04 13:38:34,611 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:34,638 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:38:35,031 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:35,051 - INFO - Single embedding computation completed in 16.09 seconds
+2025-08-04 13:38:35,052 - INFO - Completed 10/203 embeddings
+2025-08-04 13:38:35,101 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:35,117 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:38:35,413 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:35,428 - INFO - Single embedding computation completed in 16.46 seconds
+2025-08-04 13:38:35,485 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:38:35,523 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:38:35,851 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:35,861 - INFO - Single embedding computation completed in 16.90 seconds
+2025-08-04 13:38:35,897 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:35,927 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:38:36,211 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:36,226 - INFO - Single embedding computation completed in 17.26 seconds
+2025-08-04 13:38:36,283 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:38:36,323 - INFO - Base64 image conversion completed in 0.10 seconds
+2025-08-04 13:38:36,958 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:36,968 - INFO - Single embedding computation completed in 18.00 seconds
+2025-08-04 13:38:37,004 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:37,031 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:37,150 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:37,161 - INFO - Single embedding computation completed in 18.20 seconds
+2025-08-04 13:38:37,162 - INFO - Completed 15/203 embeddings
+2025-08-04 13:38:37,201 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:37,228 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:38:38,163 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:38,173 - INFO - Single embedding computation completed in 19.21 seconds
+2025-08-04 13:38:38,183 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:38,193 - INFO - Single embedding computation completed in 19.23 seconds
+2025-08-04 13:38:38,221 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:38,232 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:38,277 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:38:38,282 - INFO - Base64 image conversion completed in 0.11 seconds
+2025-08-04 13:38:39,100 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:39,111 - INFO - Single embedding computation completed in 20.15 seconds
+2025-08-04 13:38:39,143 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:39,167 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:39,454 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:39,462 - INFO - Single embedding computation completed in 20.50 seconds
+2025-08-04 13:38:39,507 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:39,550 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:38:39,953 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:39,965 - INFO - Single embedding computation completed in 21.00 seconds
+2025-08-04 13:38:39,966 - INFO - Completed 20/203 embeddings
+2025-08-04 13:38:40,009 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:40,046 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:38:41,081 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:41,091 - INFO - Single embedding computation completed in 22.13 seconds
+2025-08-04 13:38:41,124 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:41,152 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:41,213 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:41,230 - INFO - Single embedding computation completed in 22.27 seconds
+2025-08-04 13:38:41,267 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:41,294 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:41,527 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:41,535 - INFO - Single embedding computation completed in 22.57 seconds
+2025-08-04 13:38:41,577 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:41,615 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:38:42,107 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:42,119 - INFO - Single embedding computation completed in 23.15 seconds
+2025-08-04 13:38:42,165 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:42,173 - INFO - Single embedding computation completed in 23.21 seconds
+2025-08-04 13:38:42,173 - INFO - Completed 25/203 embeddings
+2025-08-04 13:38:42,188 - INFO - Image resizing completed in 0.07 seconds
+2025-08-04 13:38:42,213 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:42,253 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:38:42,305 - INFO - Base64 image conversion completed in 0.19 seconds
+2025-08-04 13:38:43,295 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:43,305 - INFO - Single embedding computation completed in 24.34 seconds
+2025-08-04 13:38:43,337 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:43,362 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:43,421 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:43,432 - INFO - Single embedding computation completed in 24.47 seconds
+2025-08-04 13:38:43,499 - INFO - Image resizing completed in 0.07 seconds
+2025-08-04 13:38:43,610 - INFO - Base64 image conversion completed in 0.18 seconds
+2025-08-04 13:38:44,637 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:44,648 - INFO - Single embedding computation completed in 25.68 seconds
+2025-08-04 13:38:44,695 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:44,730 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:38:44,903 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:44,913 - INFO - Single embedding computation completed in 25.95 seconds
+2025-08-04 13:38:44,946 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:44,974 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:45,334 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:45,343 - INFO - Single embedding computation completed in 26.38 seconds
+2025-08-04 13:38:45,343 - INFO - Completed 30/203 embeddings
+2025-08-04 13:38:45,376 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:45,403 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:46,214 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:46,223 - INFO - Single embedding computation completed in 27.26 seconds
+2025-08-04 13:38:46,261 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:46,301 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:38:46,933 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:46,944 - INFO - Single embedding computation completed in 27.98 seconds
+2025-08-04 13:38:46,978 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:46,999 - INFO - Base64 image conversion completed in 0.05 seconds
+2025-08-04 13:38:47,347 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:47,361 - INFO - Single embedding computation completed in 28.40 seconds
+2025-08-04 13:38:47,410 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:47,452 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:38:47,530 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:47,530 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:47,595 - INFO - Single embedding computation completed in 28.63 seconds
+2025-08-04 13:38:47,601 - INFO - Single embedding computation completed in 28.64 seconds
+2025-08-04 13:38:47,602 - INFO - Completed 35/203 embeddings
+2025-08-04 13:38:47,633 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:47,637 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:47,660 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:47,665 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:48,870 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:48,884 - INFO - Single embedding computation completed in 29.92 seconds
+2025-08-04 13:38:48,927 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:48,974 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:38:49,574 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:49,583 - INFO - Single embedding computation completed in 30.62 seconds
+2025-08-04 13:38:49,616 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:49,643 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:49,829 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:49,845 - INFO - Single embedding computation completed in 30.88 seconds
+2025-08-04 13:38:49,854 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:49,868 - INFO - Single embedding computation completed in 30.90 seconds
+2025-08-04 13:38:49,878 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:49,888 - INFO - Single embedding computation completed in 30.92 seconds
+2025-08-04 13:38:49,889 - INFO - Completed 40/203 embeddings
+2025-08-04 13:38:49,901 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:49,922 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:49,928 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:38:49,934 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:38:49,950 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:50,000 - INFO - Base64 image conversion completed in 0.13 seconds
+2025-08-04 13:38:51,632 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:51,645 - INFO - Single embedding computation completed in 32.68 seconds
+2025-08-04 13:38:51,677 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:51,686 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:51,687 - INFO - Single embedding computation completed in 32.72 seconds
+2025-08-04 13:38:51,718 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:38:51,721 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:51,749 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:52,245 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:52,256 - INFO - Single embedding computation completed in 33.29 seconds
+2025-08-04 13:38:52,289 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:52,314 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:52,344 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:52,349 - INFO - Single embedding computation completed in 33.38 seconds
+2025-08-04 13:38:52,383 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:52,410 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:53,339 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:53,353 - INFO - Single embedding computation completed in 34.39 seconds
+2025-08-04 13:38:53,354 - INFO - Completed 45/203 embeddings
+2025-08-04 13:38:53,392 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:53,421 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:38:53,904 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:53,920 - INFO - Single embedding computation completed in 34.95 seconds
+2025-08-04 13:38:53,958 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:54,000 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:38:54,245 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:54,254 - INFO - Single embedding computation completed in 35.29 seconds
+2025-08-04 13:38:54,286 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:54,316 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:54,319 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:54,329 - INFO - Single embedding computation completed in 35.36 seconds
+2025-08-04 13:38:54,361 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:54,389 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:54,586 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:54,599 - INFO - Single embedding computation completed in 35.63 seconds
+2025-08-04 13:38:54,655 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:54,712 - INFO - Base64 image conversion completed in 0.11 seconds
+2025-08-04 13:38:56,601 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:56,614 - INFO - Single embedding computation completed in 37.65 seconds
+2025-08-04 13:38:56,614 - INFO - Completed 50/203 embeddings
+2025-08-04 13:38:56,652 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:56,673 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:58,596 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:58,597 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:58,607 - INFO - Single embedding computation completed in 39.64 seconds
+2025-08-04 13:38:58,610 - INFO - Single embedding computation completed in 39.65 seconds
+2025-08-04 13:38:58,644 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:58,654 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:38:58,673 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:58,690 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:38:58,702 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:58,707 - INFO - Single embedding computation completed in 39.74 seconds
+2025-08-04 13:38:58,739 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:38:58,763 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:38:59,691 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:59,695 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:38:59,709 - INFO - Single embedding computation completed in 40.74 seconds
+2025-08-04 13:38:59,720 - INFO - Single embedding computation completed in 40.76 seconds
+2025-08-04 13:38:59,721 - INFO - Completed 55/203 embeddings
+2025-08-04 13:38:59,761 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:59,768 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:38:59,789 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:38:59,795 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:00,688 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:00,701 - INFO - Single embedding computation completed in 41.74 seconds
+2025-08-04 13:39:00,753 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:00,817 - INFO - Base64 image conversion completed in 0.12 seconds
+2025-08-04 13:39:00,817 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:00,827 - INFO - Single embedding computation completed in 41.86 seconds
+2025-08-04 13:39:00,857 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:00,882 - INFO - Base64 image conversion completed in 0.05 seconds
+2025-08-04 13:39:01,908 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:01,917 - INFO - Single embedding computation completed in 42.95 seconds
+2025-08-04 13:39:01,952 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:01,968 - INFO - Base64 image conversion completed in 0.05 seconds
+2025-08-04 13:39:02,021 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:02,039 - INFO - Single embedding computation completed in 43.07 seconds
+2025-08-04 13:39:02,077 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:02,106 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:03,090 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:03,108 - INFO - Single embedding computation completed in 44.14 seconds
+2025-08-04 13:39:03,108 - INFO - Completed 60/203 embeddings
+2025-08-04 13:39:03,158 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:03,192 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:03,789 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:03,798 - INFO - Single embedding computation completed in 44.83 seconds
+2025-08-04 13:39:03,839 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:03,877 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:04,345 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:04,372 - INFO - Single embedding computation completed in 45.41 seconds
+2025-08-04 13:39:04,444 - INFO - Image resizing completed in 0.07 seconds
+2025-08-04 13:39:04,503 - INFO - Base64 image conversion completed in 0.13 seconds
+2025-08-04 13:39:05,341 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:05,349 - INFO - Single embedding computation completed in 46.38 seconds
+2025-08-04 13:39:05,383 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:05,410 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:05,800 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:05,807 - INFO - Single embedding computation completed in 46.84 seconds
+2025-08-04 13:39:05,838 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:05,865 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:06,459 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:06,476 - INFO - Single embedding computation completed in 47.51 seconds
+2025-08-04 13:39:06,476 - INFO - Completed 65/203 embeddings
+2025-08-04 13:39:06,521 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:06,547 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:06,715 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:06,721 - INFO - Single embedding computation completed in 47.76 seconds
+2025-08-04 13:39:06,752 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:06,776 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:07,618 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:07,627 - INFO - Single embedding computation completed in 48.66 seconds
+2025-08-04 13:39:07,659 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:07,684 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:07,984 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:07,992 - INFO - Single embedding computation completed in 49.03 seconds
+2025-08-04 13:39:08,041 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:08,099 - INFO - Base64 image conversion completed in 0.11 seconds
+2025-08-04 13:39:08,743 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:08,754 - INFO - Single embedding computation completed in 49.79 seconds
+2025-08-04 13:39:08,788 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:08,813 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:09,678 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:09,690 - INFO - Single embedding computation completed in 50.73 seconds
+2025-08-04 13:39:09,690 - INFO - Completed 70/203 embeddings
+2025-08-04 13:39:09,746 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:39:09,822 - INFO - Base64 image conversion completed in 0.13 seconds
+2025-08-04 13:39:10,057 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:10,091 - INFO - Single embedding computation completed in 51.13 seconds
+2025-08-04 13:39:10,136 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:10,182 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:39:10,967 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:10,976 - INFO - Single embedding computation completed in 52.01 seconds
+2025-08-04 13:39:11,005 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:11,027 - INFO - Base64 image conversion completed in 0.05 seconds
+2025-08-04 13:39:11,096 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:11,108 - INFO - Single embedding computation completed in 52.14 seconds
+2025-08-04 13:39:11,165 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:39:11,246 - INFO - Base64 image conversion completed in 0.14 seconds
+2025-08-04 13:39:12,463 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:12,480 - INFO - Single embedding computation completed in 53.51 seconds
+2025-08-04 13:39:12,544 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:39:12,590 - INFO - Base64 image conversion completed in 0.11 seconds
+2025-08-04 13:39:13,146 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:13,159 - INFO - Single embedding computation completed in 54.19 seconds
+2025-08-04 13:39:13,159 - INFO - Completed 75/203 embeddings
+2025-08-04 13:39:13,205 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:13,254 - INFO - Base64 image conversion completed in 0.10 seconds
+2025-08-04 13:39:14,784 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:14,793 - INFO - Single embedding computation completed in 55.83 seconds
+2025-08-04 13:39:14,849 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:39:14,941 - INFO - Base64 image conversion completed in 0.15 seconds
+2025-08-04 13:39:14,950 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:14,954 - INFO - Single embedding computation completed in 55.99 seconds
+2025-08-04 13:39:14,997 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:15,034 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:15,259 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:15,264 - INFO - Single embedding computation completed in 56.30 seconds
+2025-08-04 13:39:15,308 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:15,353 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:39:15,669 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:15,679 - INFO - Single embedding computation completed in 56.71 seconds
+2025-08-04 13:39:15,709 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:15,736 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:17,374 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:17,379 - INFO - Single embedding computation completed in 58.41 seconds
+2025-08-04 13:39:17,380 - INFO - Completed 80/203 embeddings
+2025-08-04 13:39:17,435 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:39:17,520 - INFO - Base64 image conversion completed in 0.14 seconds
+2025-08-04 13:39:17,628 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:17,653 - INFO - Single embedding computation completed in 58.69 seconds
+2025-08-04 13:39:17,685 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:17,709 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:17,800 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:17,806 - INFO - Single embedding computation completed in 58.84 seconds
+2025-08-04 13:39:17,843 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:17,863 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:19,639 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:19,656 - INFO - Single embedding computation completed in 60.69 seconds
+2025-08-04 13:39:19,706 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:19,728 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:19,836 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:19,847 - INFO - Single embedding computation completed in 60.88 seconds
+2025-08-04 13:39:19,891 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:19,961 - INFO - Base64 image conversion completed in 0.11 seconds
+2025-08-04 13:39:21,051 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:21,063 - INFO - Single embedding computation completed in 62.10 seconds
+2025-08-04 13:39:21,063 - INFO - Completed 85/203 embeddings
+2025-08-04 13:39:21,105 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:21,146 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:22,948 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:22,957 - INFO - Single embedding computation completed in 63.99 seconds
+2025-08-04 13:39:22,988 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:23,003 - INFO - Base64 image conversion completed in 0.05 seconds
+2025-08-04 13:39:23,256 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:23,264 - INFO - Single embedding computation completed in 64.30 seconds
+2025-08-04 13:39:23,315 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:23,384 - INFO - Base64 image conversion completed in 0.12 seconds
+2025-08-04 13:39:24,973 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:24,982 - INFO - Single embedding computation completed in 66.02 seconds
+2025-08-04 13:39:25,015 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:25,036 - INFO - Base64 image conversion completed in 0.05 seconds
+2025-08-04 13:39:25,956 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:25,966 - INFO - Single embedding computation completed in 67.00 seconds
+2025-08-04 13:39:26,003 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:26,021 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:26,033 - INFO - Single embedding computation completed in 67.07 seconds
+2025-08-04 13:39:26,033 - INFO - Completed 90/203 embeddings
+2025-08-04 13:39:26,039 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:26,088 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:26,159 - INFO - Base64 image conversion completed in 0.13 seconds
+2025-08-04 13:39:26,929 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:26,948 - INFO - Single embedding computation completed in 67.98 seconds
+2025-08-04 13:39:27,024 - INFO - Image resizing completed in 0.07 seconds
+2025-08-04 13:39:27,029 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:27,038 - INFO - Single embedding computation completed in 68.07 seconds
+2025-08-04 13:39:27,072 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:27,095 - INFO - Base64 image conversion completed in 0.15 seconds
+2025-08-04 13:39:27,104 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:30,454 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:30,461 - INFO - Single embedding computation completed in 71.50 seconds
+2025-08-04 13:39:30,500 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:30,529 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:30,627 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:30,635 - INFO - Single embedding computation completed in 71.67 seconds
+2025-08-04 13:39:30,666 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:30,689 - INFO - Base64 image conversion completed in 0.05 seconds
+2025-08-04 13:39:32,788 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:32,798 - INFO - Single embedding computation completed in 73.83 seconds
+2025-08-04 13:39:32,798 - INFO - Completed 95/203 embeddings
+2025-08-04 13:39:32,830 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:32,854 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:34,284 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:34,284 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:34,305 - INFO - Single embedding computation completed in 75.34 seconds
+2025-08-04 13:39:34,305 - INFO - Single embedding computation completed in 75.34 seconds
+2025-08-04 13:39:34,348 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:34,358 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:34,381 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:34,408 - INFO - Base64 image conversion completed in 0.10 seconds
+2025-08-04 13:39:35,485 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:35,513 - INFO - Single embedding computation completed in 76.55 seconds
+2025-08-04 13:39:35,566 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:35,629 - INFO - Base64 image conversion completed in 0.12 seconds
+2025-08-04 13:39:37,270 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:37,286 - INFO - Single embedding computation completed in 78.32 seconds
+2025-08-04 13:39:37,337 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:37,367 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:38,038 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:38,049 - INFO - Single embedding computation completed in 79.08 seconds
+2025-08-04 13:39:38,050 - INFO - Completed 100/203 embeddings
+2025-08-04 13:39:38,093 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:38,128 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:39,473 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:39,486 - INFO - Single embedding computation completed in 80.52 seconds
+2025-08-04 13:39:39,533 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:39,561 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:40,269 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:40,286 - INFO - Single embedding computation completed in 81.32 seconds
+2025-08-04 13:39:40,334 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:40,351 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:41,749 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:41,758 - INFO - Single embedding computation completed in 82.79 seconds
+2025-08-04 13:39:41,858 - INFO - Image resizing completed in 0.10 seconds
+2025-08-04 13:39:41,920 - INFO - Base64 image conversion completed in 0.16 seconds
+2025-08-04 13:39:42,057 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:42,164 - INFO - Single embedding computation completed in 83.20 seconds
+2025-08-04 13:39:42,197 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:42,226 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:42,353 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:42,360 - INFO - Single embedding computation completed in 83.40 seconds
+2025-08-04 13:39:42,361 - INFO - Completed 105/203 embeddings
+2025-08-04 13:39:42,402 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:42,435 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:44,382 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:44,392 - INFO - Single embedding computation completed in 85.43 seconds
+2025-08-04 13:39:44,428 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:44,454 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:44,632 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:44,641 - INFO - Single embedding computation completed in 85.68 seconds
+2025-08-04 13:39:44,758 - INFO - Image resizing completed in 0.12 seconds
+2025-08-04 13:39:44,810 - INFO - Base64 image conversion completed in 0.17 seconds
+2025-08-04 13:39:45,406 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:45,420 - INFO - Single embedding computation completed in 86.45 seconds
+2025-08-04 13:39:45,483 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:39:45,526 - INFO - Base64 image conversion completed in 0.11 seconds
+2025-08-04 13:39:46,838 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:46,847 - INFO - Single embedding computation completed in 87.88 seconds
+2025-08-04 13:39:46,881 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:46,911 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:47,553 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:47,554 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:47,569 - INFO - Single embedding computation completed in 88.60 seconds
+2025-08-04 13:39:47,580 - INFO - Single embedding computation completed in 88.62 seconds
+2025-08-04 13:39:47,580 - INFO - Completed 110/203 embeddings
+2025-08-04 13:39:47,628 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:47,629 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:47,657 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:47,663 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:39:48,036 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:48,045 - INFO - Single embedding computation completed in 89.08 seconds
+2025-08-04 13:39:48,086 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:48,120 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:49,037 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:49,046 - INFO - Single embedding computation completed in 90.08 seconds
+2025-08-04 13:39:49,079 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:49,112 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:49,637 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:49,652 - INFO - Single embedding computation completed in 90.69 seconds
+2025-08-04 13:39:49,704 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:49,725 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:49,733 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:49,738 - INFO - Single embedding computation completed in 90.77 seconds
+2025-08-04 13:39:49,738 - INFO - Completed 115/203 embeddings
+2025-08-04 13:39:49,774 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:49,803 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:50,046 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:50,067 - INFO - Single embedding computation completed in 91.10 seconds
+2025-08-04 13:39:50,123 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:39:50,178 - INFO - Base64 image conversion completed in 0.11 seconds
+2025-08-04 13:39:50,316 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:50,324 - INFO - Single embedding computation completed in 91.36 seconds
+2025-08-04 13:39:50,358 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:50,380 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:51,481 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:51,489 - INFO - Single embedding computation completed in 92.52 seconds
+2025-08-04 13:39:51,522 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:51,543 - INFO - Base64 image conversion completed in 0.05 seconds
+2025-08-04 13:39:51,815 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:51,831 - INFO - Single embedding computation completed in 92.87 seconds
+2025-08-04 13:39:51,883 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:51,910 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:52,312 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:52,322 - INFO - Single embedding computation completed in 93.36 seconds
+2025-08-04 13:39:52,322 - INFO - Completed 120/203 embeddings
+2025-08-04 13:39:52,364 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:52,408 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:39:52,690 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:52,706 - INFO - Single embedding computation completed in 93.74 seconds
+2025-08-04 13:39:52,756 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:52,779 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:53,862 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:53,873 - INFO - Single embedding computation completed in 94.91 seconds
+2025-08-04 13:39:53,918 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:53,950 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:54,684 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:54,696 - INFO - Single embedding computation completed in 95.73 seconds
+2025-08-04 13:39:54,741 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:54,774 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:54,913 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:54,923 - INFO - Single embedding computation completed in 95.96 seconds
+2025-08-04 13:39:54,957 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:54,979 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:55,979 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:55,988 - INFO - Single embedding computation completed in 97.02 seconds
+2025-08-04 13:39:55,989 - INFO - Completed 125/203 embeddings
+2025-08-04 13:39:56,036 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:56,066 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:39:56,864 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:56,882 - INFO - Single embedding computation completed in 97.92 seconds
+2025-08-04 13:39:56,945 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:39:56,999 - INFO - Base64 image conversion completed in 0.12 seconds
+2025-08-04 13:39:57,159 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:57,169 - INFO - Single embedding computation completed in 98.20 seconds
+2025-08-04 13:39:57,210 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:57,235 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:39:57,480 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:57,489 - INFO - Single embedding computation completed in 98.52 seconds
+2025-08-04 13:39:57,521 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:39:57,550 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:39:59,169 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:59,179 - INFO - Single embedding computation completed in 100.21 seconds
+2025-08-04 13:39:59,219 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:39:59,265 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:39:59,525 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:39:59,536 - INFO - Single embedding computation completed in 100.57 seconds
+2025-08-04 13:39:59,537 - INFO - Completed 130/203 embeddings
+2025-08-04 13:39:59,588 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:39:59,648 - INFO - Base64 image conversion completed in 0.11 seconds
+2025-08-04 13:40:00,022 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:00,033 - INFO - Single embedding computation completed in 101.07 seconds
+2025-08-04 13:40:00,072 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:00,109 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:00,931 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:00,941 - INFO - Single embedding computation completed in 101.98 seconds
+2025-08-04 13:40:00,986 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:01,024 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:01,927 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:01,937 - INFO - Single embedding computation completed in 102.97 seconds
+2025-08-04 13:40:01,979 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:01,999 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:02,273 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:02,282 - INFO - Single embedding computation completed in 103.32 seconds
+2025-08-04 13:40:02,323 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:02,355 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:40:02,488 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:02,497 - INFO - Single embedding computation completed in 103.53 seconds
+2025-08-04 13:40:02,497 - INFO - Completed 135/203 embeddings
+2025-08-04 13:40:02,543 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:02,585 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:40:03,058 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:03,068 - INFO - Single embedding computation completed in 104.10 seconds
+2025-08-04 13:40:03,101 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:40:03,123 - INFO - Base64 image conversion completed in 0.05 seconds
+2025-08-04 13:40:03,217 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:03,228 - INFO - Single embedding computation completed in 104.26 seconds
+2025-08-04 13:40:03,273 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:03,309 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:03,934 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:03,941 - INFO - Single embedding computation completed in 104.98 seconds
+2025-08-04 13:40:03,981 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:04,025 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:04,558 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:04,577 - INFO - Single embedding computation completed in 105.61 seconds
+2025-08-04 13:40:04,649 - INFO - Image resizing completed in 0.07 seconds
+2025-08-04 13:40:04,719 - INFO - Base64 image conversion completed in 0.14 seconds
+2025-08-04 13:40:05,079 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:05,089 - INFO - Single embedding computation completed in 106.12 seconds
+2025-08-04 13:40:05,089 - INFO - Completed 140/203 embeddings
+2025-08-04 13:40:05,122 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:40:05,148 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:05,627 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:05,635 - INFO - Single embedding computation completed in 106.67 seconds
+2025-08-04 13:40:05,672 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:05,720 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:40:07,004 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:07,015 - INFO - Single embedding computation completed in 108.05 seconds
+2025-08-04 13:40:07,057 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:07,083 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:40:07,323 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:07,334 - INFO - Single embedding computation completed in 108.37 seconds
+2025-08-04 13:40:07,365 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:40:07,390 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:08,097 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:08,106 - INFO - Single embedding computation completed in 109.14 seconds
+2025-08-04 13:40:08,146 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:08,201 - INFO - Base64 image conversion completed in 0.10 seconds
+2025-08-04 13:40:08,384 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:08,393 - INFO - Single embedding computation completed in 109.43 seconds
+2025-08-04 13:40:08,393 - INFO - Completed 145/203 embeddings
+2025-08-04 13:40:08,442 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:08,476 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:08,749 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:08,764 - INFO - Single embedding computation completed in 109.80 seconds
+2025-08-04 13:40:08,817 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:08,849 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:09,139 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:09,152 - INFO - Single embedding computation completed in 110.19 seconds
+2025-08-04 13:40:09,206 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:09,246 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:40:09,458 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:09,469 - INFO - Single embedding computation completed in 110.50 seconds
+2025-08-04 13:40:09,509 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:09,538 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:40:10,867 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:10,885 - INFO - Single embedding computation completed in 111.92 seconds
+2025-08-04 13:40:10,934 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:10,951 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:11,000 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:11,008 - INFO - Single embedding computation completed in 112.04 seconds
+2025-08-04 13:40:11,008 - INFO - Completed 150/203 embeddings
+2025-08-04 13:40:11,049 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:11,088 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:11,832 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:11,847 - INFO - Single embedding computation completed in 112.88 seconds
+2025-08-04 13:40:11,891 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:11,939 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:40:12,151 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:12,166 - INFO - Single embedding computation completed in 113.20 seconds
+2025-08-04 13:40:12,238 - INFO - Image resizing completed in 0.07 seconds
+2025-08-04 13:40:12,311 - INFO - Base64 image conversion completed in 0.14 seconds
+2025-08-04 13:40:12,828 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:12,838 - INFO - Single embedding computation completed in 113.87 seconds
+2025-08-04 13:40:12,873 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:12,902 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:13,451 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:13,467 - INFO - Single embedding computation completed in 114.50 seconds
+2025-08-04 13:40:13,514 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:13,539 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:40:14,280 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:14,288 - INFO - Single embedding computation completed in 115.32 seconds
+2025-08-04 13:40:14,288 - INFO - Completed 155/203 embeddings
+2025-08-04 13:40:14,342 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:14,377 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:40:15,056 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:15,070 - INFO - Single embedding computation completed in 116.10 seconds
+2025-08-04 13:40:15,115 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:15,136 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:40:15,594 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:15,608 - INFO - Single embedding computation completed in 116.64 seconds
+2025-08-04 13:40:15,642 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:40:15,670 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:16,472 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:16,482 - INFO - Single embedding computation completed in 117.52 seconds
+2025-08-04 13:40:16,601 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:16,607 - INFO - Image resizing completed in 0.13 seconds
+2025-08-04 13:40:16,613 - INFO - Single embedding computation completed in 117.65 seconds
+2025-08-04 13:40:16,650 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:16,677 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:16,683 - INFO - Base64 image conversion completed in 0.20 seconds
+2025-08-04 13:40:16,693 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:16,697 - INFO - Single embedding computation completed in 117.73 seconds
+2025-08-04 13:40:16,698 - INFO - Completed 160/203 embeddings
+2025-08-04 13:40:16,728 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:40:16,753 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:17,113 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:17,120 - INFO - Single embedding computation completed in 118.16 seconds
+2025-08-04 13:40:17,219 - INFO - Image resizing completed in 0.10 seconds
+2025-08-04 13:40:17,273 - INFO - Base64 image conversion completed in 0.15 seconds
+2025-08-04 13:40:17,789 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:17,798 - INFO - Single embedding computation completed in 118.83 seconds
+2025-08-04 13:40:17,833 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:40:17,861 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:18,925 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:18,945 - INFO - Single embedding computation completed in 119.98 seconds
+2025-08-04 13:40:18,991 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:18,996 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:19,001 - INFO - Single embedding computation completed in 120.04 seconds
+2025-08-04 13:40:19,024 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:19,034 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:40:19,058 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:21,616 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:21,637 - INFO - Single embedding computation completed in 122.67 seconds
+2025-08-04 13:40:21,637 - INFO - Completed 165/203 embeddings
+2025-08-04 13:40:21,673 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:21,700 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:22,373 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:22,391 - INFO - Single embedding computation completed in 123.43 seconds
+2025-08-04 13:40:22,452 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:40:22,493 - INFO - Base64 image conversion completed in 0.10 seconds
+2025-08-04 13:40:23,312 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:23,319 - INFO - Single embedding computation completed in 124.35 seconds
+2025-08-04 13:40:23,372 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:23,427 - INFO - Base64 image conversion completed in 0.11 seconds
+2025-08-04 13:40:23,709 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:23,732 - INFO - Single embedding computation completed in 124.77 seconds
+2025-08-04 13:40:23,784 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:23,813 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:25,518 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:25,530 - INFO - Single embedding computation completed in 126.56 seconds
+2025-08-04 13:40:25,570 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:25,607 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:25,799 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:25,812 - INFO - Single embedding computation completed in 126.85 seconds
+2025-08-04 13:40:25,813 - INFO - Completed 170/203 embeddings
+2025-08-04 13:40:25,871 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:40:25,928 - INFO - Base64 image conversion completed in 0.12 seconds
+2025-08-04 13:40:26,876 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:26,884 - INFO - Single embedding computation completed in 127.92 seconds
+2025-08-04 13:40:26,919 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:40:26,946 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:28,829 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:28,830 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:28,845 - INFO - Single embedding computation completed in 129.88 seconds
+2025-08-04 13:40:28,847 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:28,861 - INFO - Single embedding computation completed in 129.90 seconds
+2025-08-04 13:40:28,870 - INFO - Single embedding computation completed in 129.91 seconds
+2025-08-04 13:40:28,915 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:28,919 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:28,919 - INFO - Image resizing completed in 0.07 seconds
+2025-08-04 13:40:28,952 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:40:28,960 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:40:28,985 - INFO - Base64 image conversion completed in 0.14 seconds
+2025-08-04 13:40:31,254 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:31,264 - INFO - Single embedding computation completed in 132.30 seconds
+2025-08-04 13:40:31,264 - INFO - Completed 175/203 embeddings
+2025-08-04 13:40:31,302 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:31,326 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:31,337 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:40:31,339 - INFO - Single embedding computation completed in 132.37 seconds
+2025-08-04 13:40:31,393 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:31,465 - INFO - Base64 image conversion completed in 0.13 seconds
+2025-08-04 13:40:32,523 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:32,533 - INFO - Single embedding computation completed in 133.57 seconds
+2025-08-04 13:40:32,575 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:32,615 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:34,148 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:34,155 - INFO - Single embedding computation completed in 135.19 seconds
+2025-08-04 13:40:34,193 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:34,231 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:35,512 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:35,521 - INFO - Single embedding computation completed in 136.56 seconds
+2025-08-04 13:40:35,557 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:40:35,585 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:37,721 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:37,731 - INFO - Single embedding computation completed in 138.77 seconds
+2025-08-04 13:40:37,732 - INFO - Completed 180/203 embeddings
+2025-08-04 13:40:37,775 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:37,804 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:40:43,812 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:43,832 - INFO - Single embedding computation completed in 144.87 seconds
+2025-08-04 13:40:43,892 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:40:43,927 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:40:46,161 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:46,169 - INFO - Single embedding computation completed in 147.20 seconds
+2025-08-04 13:40:46,202 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:40:46,225 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:48,242 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:48,251 - INFO - Single embedding computation completed in 149.29 seconds
+2025-08-04 13:40:48,291 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:48,328 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:49,528 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:49,528 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:49,528 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:49,529 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:49,539 - INFO - Single embedding computation completed in 150.57 seconds
+2025-08-04 13:40:49,540 - INFO - Single embedding computation completed in 150.58 seconds
+2025-08-04 13:40:49,544 - INFO - Completed 185/203 embeddings
+2025-08-04 13:40:49,544 - INFO - Single embedding computation completed in 150.58 seconds
+2025-08-04 13:40:49,549 - INFO - Single embedding computation completed in 150.58 seconds
+2025-08-04 13:40:49,585 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:49,590 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:49,595 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:49,612 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:40:49,624 - INFO - Image resizing completed in 0.08 seconds
+2025-08-04 13:40:49,628 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:49,644 - INFO - Base64 image conversion completed in 0.10 seconds
+2025-08-04 13:40:49,743 - INFO - Base64 image conversion completed in 0.19 seconds
+2025-08-04 13:40:50,471 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:50,480 - INFO - Single embedding computation completed in 151.51 seconds
+2025-08-04 13:40:50,521 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:50,557 - INFO - Base64 image conversion completed in 0.08 seconds
+2025-08-04 13:40:51,498 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:51,511 - INFO - Single embedding computation completed in 152.55 seconds
+2025-08-04 13:40:51,552 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:51,569 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:52,013 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:52,028 - INFO - Single embedding computation completed in 153.06 seconds
+2025-08-04 13:40:52,028 - INFO - Completed 190/203 embeddings
+2025-08-04 13:40:52,091 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:40:52,136 - INFO - Base64 image conversion completed in 0.11 seconds
+2025-08-04 13:40:52,435 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:52,452 - INFO - Single embedding computation completed in 153.49 seconds
+2025-08-04 13:40:52,528 - INFO - Image resizing completed in 0.07 seconds
+2025-08-04 13:40:52,612 - INFO - Base64 image conversion completed in 0.16 seconds
+2025-08-04 13:40:52,780 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:52,814 - INFO - Single embedding computation completed in 153.85 seconds
+2025-08-04 13:40:52,871 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:40:52,919 - INFO - Base64 image conversion completed in 0.10 seconds
+2025-08-04 13:40:53,482 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:53,490 - INFO - Single embedding computation completed in 154.52 seconds
+2025-08-04 13:40:53,525 - INFO - Image resizing completed in 0.03 seconds
+2025-08-04 13:40:53,554 - INFO - Base64 image conversion completed in 0.06 seconds
+2025-08-04 13:40:54,477 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:54,493 - INFO - Single embedding computation completed in 155.53 seconds
+2025-08-04 13:40:54,552 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:40:54,592 - INFO - Base64 image conversion completed in 0.10 seconds
+2025-08-04 13:40:54,623 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:54,675 - INFO - Single embedding computation completed in 155.71 seconds
+2025-08-04 13:40:54,675 - INFO - Completed 195/203 embeddings
+2025-08-04 13:40:54,719 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:40:54,767 - INFO - Base64 image conversion completed in 0.09 seconds
+2025-08-04 13:40:55,679 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:55,695 - INFO - Single embedding computation completed in 156.73 seconds
+2025-08-04 13:40:55,747 - INFO - Image resizing completed in 0.05 seconds
+2025-08-04 13:40:55,791 - INFO - Base64 image conversion completed in 0.10 seconds
+2025-08-04 13:40:56,168 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:56,184 - INFO - Single embedding computation completed in 157.22 seconds
+2025-08-04 13:40:56,253 - INFO - Image resizing completed in 0.07 seconds
+2025-08-04 13:40:56,315 - INFO - Base64 image conversion completed in 0.13 seconds
+2025-08-04 13:40:57,130 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:57,139 - INFO - Single embedding computation completed in 158.17 seconds
+2025-08-04 13:40:57,195 - INFO - Image resizing completed in 0.06 seconds
+2025-08-04 13:40:57,274 - INFO - Base64 image conversion completed in 0.14 seconds
+2025-08-04 13:40:57,882 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:57,897 - INFO - Single embedding computation completed in 158.93 seconds
+2025-08-04 13:40:58,411 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:58,421 - INFO - Single embedding computation completed in 159.46 seconds
+2025-08-04 13:40:58,421 - INFO - Completed 200/203 embeddings
+2025-08-04 13:40:59,373 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:59,381 - INFO - Single embedding computation completed in 160.42 seconds
+2025-08-04 13:40:59,876 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:40:59,885 - INFO - Single embedding computation completed in 160.92 seconds
+2025-08-04 13:41:00,156 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:41:00,168 - INFO - Single embedding computation completed in 161.20 seconds
+2025-08-04 13:41:00,168 - INFO - Completed 203/203 embeddings
+2025-08-04 13:41:00,168 - INFO - Successfully computed 203 out of 203 embeddings
+2025-08-04 13:42:51,951 - INFO - HTTP Request: POST https://api.cohere.com/v2/embed "HTTP/1.1 200 OK"
+2025-08-04 13:42:51,974 - INFO - Async search operation completed in 0.44 seconds
+2025-08-04 13:42:52,070 - INFO - Image resizing completed in 0.04 seconds
+2025-08-04 13:42:52,103 - INFO - Base64 image conversion completed in 0.07 seconds
+2025-08-04 13:43:09,313 - INFO - HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-08-04 13:43:09,314 - INFO - Markdown removal completed in 0.00 seconds
+2025-08-04 13:43:09,314 - INFO - Question answering completed in 17.29 seconds

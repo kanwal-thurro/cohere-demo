@@ -1,0 +1,9 @@
+Pillow
+cohere
+numpy
+streamlit
+pdf2image
+tqdm
+requests
+aiohttp
+aiofiles
